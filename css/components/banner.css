@@ -1,0 +1,30 @@
+.banner {
+	background-image: linear-gradient(-25deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.01) 0%), url(../../images/backgroundv4.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.banner {
+	height: 35vh;
+	width: 100%;
+	border-bottom: 2px solid #03071E;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	margin-bottom: 50px;
+}
+
+.title {
+  font-family: 'Kanit', sans-serif;
+  font-size: 65px;
+  color: #03071E;
+  margin: 0;
+  padding-left: 350px;
+} 
+
+.intro {
+	color: #03071E;
+	font-family: 'Delicious Handrawn', cursive;
+	font-size: 30px;
+	padding-left: 450px;
+	padding-right: 150px;
+}
